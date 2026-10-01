@@ -106,7 +106,7 @@ Ik had niet zoveel problemen met de opdracht, tot ik de led aan moest sluiten. I
 Ik heb geprobeerd om de HIGH en LOW te wisselen, maar dat hielp ook niet. 
 Daarom heb ik ChatGPT ingeschakeld. Die had geholpen met de code en die werkte uiteindelijk wel. Die code werkte wel, maar ik vond hem ingewikkeld. Daarom heb ik ervoor gekozen om hem niet verder in de handleiding te verwerken, omdat ik het zelf ook niet helemaal snap. 
 
-
+Bron: https://chatgpt.com/share/6abe37bf-6f24-83eb-ae07-691cd25051c3
   
   
 
